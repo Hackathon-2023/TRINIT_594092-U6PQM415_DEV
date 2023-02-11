@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TRINIT_594092-U6PQM415_DEV/static/css/main.60245253.css",
+    "main.js": "/TRINIT_594092-U6PQM415_DEV/static/js/main.ef152760.js",
+    "static/js/787.7ea0274a.chunk.js": "/TRINIT_594092-U6PQM415_DEV/static/js/787.7ea0274a.chunk.js",
+    "index.html": "/TRINIT_594092-U6PQM415_DEV/index.html",
+    "main.60245253.css.map": "/TRINIT_594092-U6PQM415_DEV/static/css/main.60245253.css.map",
+    "main.ef152760.js.map": "/TRINIT_594092-U6PQM415_DEV/static/js/main.ef152760.js.map",
+    "787.7ea0274a.chunk.js.map": "/TRINIT_594092-U6PQM415_DEV/static/js/787.7ea0274a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60245253.css",
+    "static/js/main.ef152760.js"
+  ]
+}
