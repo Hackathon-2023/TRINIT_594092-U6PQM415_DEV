@@ -1,0 +1,31 @@
+.foot{
+    background-color: rgb(131, 129, 129);
+    text-align: center;
+    margin-top: 2px;
+    line-height: 2px;
+    font-weight: 900;
+    /* position:inherit; */
+}
+.foot a{
+    /* margin-bottom: 5px; */
+    /* background-color: rgb(11, 77, 168); */
+    color:rgb(22, 1, 1);
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 25px;
+    margin: 1px;
+}
+.foot p{
+    /* margin-bottom: 5px; */
+    /* background-color: rgb(11, 77, 168); */
+    color:rgb(22, 1, 1);
+    padding: 12px;
+    text-decoration: none;
+    border-radius: 25px;
+    margin: 5px;
+}
+
+.foot a:hover{
+    background-color: rgb(97, 100, 99);
+    cursor: pointer;
+}
